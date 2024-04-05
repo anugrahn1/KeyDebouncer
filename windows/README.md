@@ -1,5 +1,7 @@
 Simply compile into an .exe, and then run. Visual Studio and/or g++ through Cygwin/LXSS is good for this.
 
+For more installation details, read [INSTALL.md](/INSTALL.md)
+
 Note: Currently requires some c++11 features. Compilation may require a "-std=c++11" flag.
 
 Optionally accepts a single command line argument that specifies the time window to use for debouncing in milliseconds. 
